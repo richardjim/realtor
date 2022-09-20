@@ -99,7 +99,7 @@ const PropertyDetails = ({
     <Box>
       {amenities.length && (
         <Text fontSize="2xl" fontWeight="black" marginTop="5">
-          Facilites:
+          Amenities:
         </Text>
       )}
       <Flex flexWrap="wrap">
